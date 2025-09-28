@@ -16,10 +16,10 @@ The project uses Random Forest with feature engineering to improve prediction ac
 - Kaggle leaderboard score: 0.77511
 
 ## Files
-- `Titanic_Exploration.ipynb`: Jupyter notebook with code and explanations
-- `submission.csv`: Kaggle submission
+- `titanic.ipynb`: Jupyter notebook with code and explanations
+- `faiz_submission.csv`: Kaggle submission
 - `train.csv`, `test.csv`, `gender_submission.csv`: original dataset files
 
 ## How to Run
-1. Open `Titanic_Exploration.ipynb` in Jupyter Notebook
+1. Open `titanic.ipynb` in Jupyter Notebook
 2. Run all cells to replicate analysis and generate submission
